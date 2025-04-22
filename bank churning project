@@ -1,0 +1,11 @@
+## 🔍 Project Summary
+
+This project focuses on predicting **bank customer churn** using demographic and financial data. I built and compared multiple classification models, including Random Forest, SVM, and Logistic Regression.
+
+**Key Highlights:**
+- Achieved **84.3% accuracy** using Random Forest after **SMOTE balancing**, **PCA**, and **hyperparameter tuning**
+- Performed **exploratory analysis** to identify key churn factors (Germany, inactive members, credit card holders)
+- Top influencing features: **Credit Score**, **Estimated Salary**, **Age**, **Balance**, **Tenure**
+- Evaluated model using **ROC-AUC (0.92)**, **confusion matrix**, and **classification metrics**
+
+📊 **Tools Used**: Python, pandas, seaborn, scikit-learn, SMOTE, PCA, Random Forest, Matplotlib
