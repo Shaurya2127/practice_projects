@@ -1,0 +1,60 @@
+# 🧠 Customer Segmentation using K-Means Clustering
+
+This is a machine learning project where I applied **K-Means Clustering** to segment mall customers based on their **Annual Income** and **Spending Score**. This kind of analysis helps businesses understand customer groups and target them more effectively.
+
+---
+
+## 📌 Project Overview
+
+As an economics graduate and aspiring data analyst, I created this project to showcase my understanding of **unsupervised learning** techniques using Python. This type of segmentation is widely used in **marketing analytics** and **consumer behavior analysis**.
+
+---
+
+## 📊 Dataset
+
+- **Source**: [Kaggle – Mall Customer Segmentation Data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+- **Features Used**:
+  - Age
+  - Annual Income (k$)
+  - Spending Score (1–100)
+
+---
+
+## 🛠 Tools & Technologies
+
+- **Python**
+- `pandas`, `numpy`
+- `matplotlib`, `seaborn`
+- `scikit-learn`
+- Jupyter Notebook / Google Colab
+
+---
+
+## 📈 Key Steps
+
+1. Exploratory Data Analysis (EDA)
+2. Feature Selection
+3. Elbow Method to find optimal K
+4. Applying K-Means Clustering
+5. Visualizing Customer Segments
+
+---
+
+## 📌 Insights & Observations
+
+- Customers were grouped into **5 distinct clusters**.
+- Each cluster represents a different kind of spending behavior (e.g., high income + high spenders, low income + low spenders).
+- These insights could help businesses **optimize marketing strategies** and **personalize customer engagement**.
+
+---
+
+## 💡 What I Learned
+
+- How to use **K-Means clustering** for real-world segmentation
+- Importance of **EDA** in understanding the dataset
+- How to communicate insights with **visualizations**
+
+---
+
+
+
